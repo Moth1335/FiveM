@@ -1,0 +1,7 @@
+Commands:
+
+/jail "id" "seconds" sends someone in jail for set time
+/freejail "id" frees someone from jail
+
+Players who are in jail and flee will be teleported back
+Players cant hit eachother while in jail
